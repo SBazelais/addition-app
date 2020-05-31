@@ -1,0 +1,36 @@
+body {
+    background-color:#136E7A;
+}
+
+header {
+    background-image: url("calculator.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    padding: 3%;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: #136E7A;
+    margin-bottom: 55px;
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgrey;
+    font-size: 24px;
+    text-align: center;
+}
+
+.display-result {
+    color: #00FFFF;
+}
+
+.copyright {
+    margin-top: 80px;
+    font-family: 'Bangers', cursive;
+}
